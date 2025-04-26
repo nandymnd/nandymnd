@@ -10,11 +10,11 @@
 📈 SEO, UX/UI, responsive design
 
 <h2>📚 Expériences</h2>
-🌐 Accessibilité numérique @ France Travail
+🌐 Accessibilité numérique @ France Travail<br>
 📣 Communication digitale & refonte de sites @ Montpellier
 
 <h2>🎓 Formations</h2>
-🎓 Master 2 Communication Digitale — Digital College
+🎓 Master 2 Communication Digitale — Digital College <br>
 🧑‍💻 Formation autodidacte développement web (OpenClassrooms, Codex)
 
 <h2>🎵 Centres d’intérêt</h2>
